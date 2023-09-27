@@ -1,6 +1,8 @@
 # PersonajeNav
 ## Nombre del personaje
 - Nombre de tu personaje
+#Integrantes
+- Lista con los integrantes del equipo
 ##Materiales a utilizar
 |Nombre del componenete|Descripción|Contidad|Precio|
 |-|-|-|-|
@@ -21,4 +23,4 @@ Completa la tabla
 ## Arquitectura
 - Diagrama que contenga los sensores, los actores, el microcontrolador, el servidor y la base de datos.
 ## Base de datos
-- Imagne tabla o tablas que usuarias ( EJ. sensores, actuadores, el microcontralador
+- Imagne tabla o tablas que usuarias ( EJ. sensores, actuadores, en un modelo relacional)
